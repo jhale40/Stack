@@ -6,7 +6,13 @@ This is a school assignment I did in Data Structures when learning about Java St
 [Assignment 3 Stack.docx](https://github.com/jhale40/Stack/files/13806479/Assignment.3.Stack.docx)
 
 
-[Uploading MyStackJustinHale.java…]()
+
+https://github.com/jhale40/Stack/blob/main/src/MyStackJustinHale.java
+
+https://github.com/jhale40/Stack/blob/main/src/TestStackJustinHale.java
+
+https://github.com/jhale40/Stack/blob/main/src/ExprJustinHale.java
+
 
 
 
