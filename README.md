@@ -74,7 +74,7 @@ Implement a class, call it `ExprYourname`, which will be used for transforming t
 
 Write a method 
 
-```
+```java
 public static String infixToPostfix(String infix){
 
 // Write appropriate codes here
@@ -97,7 +97,7 @@ Operator + - * / ^ can be used
 In the `ExprYourname` class, implement another method, call it postfixEval. Using class ``MyStackYourname``, the postfixEval method should evaluate a postfix expression and return the correct calculated result. 
 
 Write a method 
-```
+```java
 public static double postfixEval(String postfix){
 // Write appropriate codes here
 // Return calculated result value
@@ -114,7 +114,7 @@ Operator + - * / ^ can be used.
 In the `ExprYourname` class, write a main method which tests above two methods (Part 3 and Part 4)
 
 Write a method 
-```
+```java
   public static void main(String[] args){
     // What is the process of main method.
     // - User will insert infix
